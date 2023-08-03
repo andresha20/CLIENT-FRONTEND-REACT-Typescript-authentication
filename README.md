@@ -1,27 +1,5 @@
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# PREVIEW
+![Captura de pantalla 2023-08-03 113858](https://github.com/andresha20/CLIENT-FRONTEND-REACT-Typescript-authentication/assets/80694673/fbe32da5-0588-4439-9c8c-3b3cbe45242e)
+![Captura de pantalla 2023-08-03 113922](https://github.com/andresha20/CLIENT-FRONTEND-REACT-Typescript-authentication/assets/80694673/e6d4c2c5-17a8-45f9-9277-0176fb72bdaa)
+![Captura de pantalla 2023-08-03 114009](https://github.com/andresha20/CLIENT-FRONTEND-REACT-Typescript-authentication/assets/80694673/bd3a7e7a-72d4-403f-83a5-e2352a07e2d7)
+![Captura de pantalla 2023-08-03 114036](https://github.com/andresha20/CLIENT-FRONTEND-REACT-Typescript-authentication/assets/80694673/8f44125e-ada7-4f8b-be1f-0e9f0b0a0bff)
